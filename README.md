@@ -4,6 +4,10 @@ This library is the culmination of years of developing tools and techniques whic
 
 ## What's New
 
+- Added Expectation Mapping guide
+- Added scaffolding for leadership training
+- Added Sprint Planning template
+- Added scaffolding for Agile Field Guides
 - Added Root Cause Analysis (RCA) template
 - Added DevOps maturity model assessment template
 
