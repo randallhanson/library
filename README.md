@@ -1,4 +1,4 @@
-# Tools Of The Trade - Publications On Delivering Value The Right Way
+# Tools Of The Trade - Publications On Delivering Value
 
 This library is the culmination of years of developing tools and techniques which deliver the overall best results for consumers and those businesses serving them.
 
